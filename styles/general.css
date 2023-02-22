@@ -39,7 +39,7 @@ body {
 }
 
 .welcome-text{
-  position: absolute;
+  position: relative;
   top: 28%;
   left: 40%;
   font-family: 'Courier New', Courier, monospace;
