@@ -14,7 +14,6 @@ body {
 
 .shape-containter{
   position: relative;
-  text-align: center;
 }
 
 .rectangle{
@@ -30,20 +29,15 @@ body {
 
 .rect-text{
     position: absolute;
-    top: 15%;
-    left: 48%;
+    margin-left: 600px;
     color:white;
     font-family: 'Brandan Personal Use', sans-serif;
     font-size: 25pt;
 }
 
-.shape-containter{
-  position: relative;
-}
-
 .welcome-text{
   position: relative;
-  top: 46%;
+  top: 42%;
   left: 40%;
   font-family: 'Courier New', Courier, monospace;
 
