@@ -18,9 +18,9 @@ body {
 }
 
 .rectangle{
-  width: 1250px;
-  height: 75px;
-  background-color: rgb(102, 194, 255);
+  width: 80%;
+  height: 60pt;
+  background-color: rgb(255, 13, 13);
   color: white;
   font-family: 'Courier New', Courier, monospace;
   margin: 0 auto;
@@ -29,9 +29,9 @@ body {
 }
 
 .rect-text{
-    position: absolute;
-    top: 17%;
-    left: 52.5%;
+    position: relative;
+    top: 0%;
+    left: 95%;
     transform: translate(-50%, -50%);
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -101,8 +101,12 @@ body {
 }
 
 .profile-picture-welcome{
-  width: 300px;
-  border-radius: 150px;
-  margin-left: 250px;
+  width: 50%;
+  border-radius: 50%;
+  margin-left: 225px;
   margin-top: 20px;
+}
+
+.text-about{
+  justify-content: center;
 }
