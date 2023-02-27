@@ -29,10 +29,11 @@ body {
 
 .rect-text{
     position: absolute;
-    margin-left: 600px;
+    margin-top: 15px;
+    margin-left: 425px;
     color:white;
     font-family: 'Brandan Personal Use', sans-serif;
-    font-size: 25pt;
+    font-size: 40pt;
 }
 
 .welcome-text{
